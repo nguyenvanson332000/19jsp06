@@ -1,4 +1,4 @@
-package oop;
+package example_inheritance;
 
 public class Cat extends Animal {
     private String color;

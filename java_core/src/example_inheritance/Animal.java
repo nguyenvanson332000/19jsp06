@@ -1,4 +1,4 @@
-package oop;
+package example_inheritance;
 
 public class Animal {
     private boolean vegetarian;
