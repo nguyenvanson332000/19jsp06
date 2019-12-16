@@ -13,5 +13,6 @@ public class MainClass {
 
         int age = myObj.nextInt();
         System.out.println("Age is: " + age);
+        myObj.close();
     }
 }
