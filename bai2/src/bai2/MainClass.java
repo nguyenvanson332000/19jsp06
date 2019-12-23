@@ -18,5 +18,9 @@ public class MainClass {
 		qls.xoaTL("TT1");
 		
 		qls.timKiemTL(KieuTaiLieu.SACH);
+		System.out.println('a' - 97);
+		
+		String s =  "(())";
+		char[] c = {'(', ')'};
 	}
 }
